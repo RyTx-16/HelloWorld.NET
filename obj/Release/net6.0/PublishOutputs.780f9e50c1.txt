@@ -1,0 +1,5 @@
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\bin\Release\net6.0\publish\HelloWorld.exe
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\bin\Release\net6.0\publish\HelloWorld.dll
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\bin\Release\net6.0\publish\HelloWorld.deps.json
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\bin\Release\net6.0\publish\HelloWorld.runtimeconfig.json
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\bin\Release\net6.0\publish\HelloWorld.pdb
