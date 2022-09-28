@@ -1,0 +1,15 @@
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.exe
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.deps.json
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.runtimeconfig.json
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.dll
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.pdb
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.csproj.AssemblyReference.cache
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.AssemblyInfoInputs.cache
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.AssemblyInfo.cs
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.csproj.CoreCompileInputs.cache
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.dll
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\ParseDates\obj\Debug\net6.0\refint\ParseDates.dll
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.pdb
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.genruntimeconfig.cache
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\ParseDates\obj\Debug\net6.0\ref\ParseDates.dll
