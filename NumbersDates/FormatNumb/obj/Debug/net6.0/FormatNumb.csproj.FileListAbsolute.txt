@@ -1,0 +1,15 @@
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\FormatNumb\bin\Debug\net6.0\FormatNumb.exe
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\FormatNumb\bin\Debug\net6.0\FormatNumb.deps.json
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\FormatNumb\bin\Debug\net6.0\FormatNumb.runtimeconfig.json
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\FormatNumb\bin\Debug\net6.0\FormatNumb.dll
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\FormatNumb\bin\Debug\net6.0\FormatNumb.pdb
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\FormatNumb\obj\Debug\net6.0\FormatNumb.csproj.AssemblyReference.cache
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\FormatNumb\obj\Debug\net6.0\FormatNumb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\FormatNumb\obj\Debug\net6.0\FormatNumb.AssemblyInfoInputs.cache
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\FormatNumb\obj\Debug\net6.0\FormatNumb.AssemblyInfo.cs
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\FormatNumb\obj\Debug\net6.0\FormatNumb.csproj.CoreCompileInputs.cache
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\FormatNumb\obj\Debug\net6.0\FormatNumb.dll
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\FormatNumb\obj\Debug\net6.0\refint\FormatNumb.dll
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\FormatNumb\obj\Debug\net6.0\FormatNumb.pdb
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\FormatNumb\obj\Debug\net6.0\FormatNumb.genruntimeconfig.cache
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\FormatNumb\obj\Debug\net6.0\ref\FormatNumb.dll

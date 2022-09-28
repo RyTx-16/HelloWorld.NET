@@ -1,0 +1,15 @@
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\Parsing\bin\Debug\net6.0\Parsing.exe
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\Parsing\bin\Debug\net6.0\Parsing.deps.json
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\Parsing\bin\Debug\net6.0\Parsing.runtimeconfig.json
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\Parsing\bin\Debug\net6.0\Parsing.dll
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\Parsing\bin\Debug\net6.0\Parsing.pdb
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\Parsing\obj\Debug\net6.0\Parsing.csproj.AssemblyReference.cache
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\Parsing\obj\Debug\net6.0\Parsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\Parsing\obj\Debug\net6.0\Parsing.AssemblyInfoInputs.cache
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\Parsing\obj\Debug\net6.0\Parsing.AssemblyInfo.cs
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\Parsing\obj\Debug\net6.0\Parsing.csproj.CoreCompileInputs.cache
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\Parsing\obj\Debug\net6.0\Parsing.dll
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\Parsing\obj\Debug\net6.0\refint\Parsing.dll
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\Parsing\obj\Debug\net6.0\Parsing.pdb
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\Parsing\obj\Debug\net6.0\Parsing.genruntimeconfig.cache
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\NumbersDates\Parsing\obj\Debug\net6.0\ref\Parsing.dll
