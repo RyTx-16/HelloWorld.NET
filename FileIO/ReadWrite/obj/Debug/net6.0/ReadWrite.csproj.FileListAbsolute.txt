@@ -1,0 +1,15 @@
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\FileIO\ReadWrite\bin\Debug\net6.0\ReadWrite.exe
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\FileIO\ReadWrite\bin\Debug\net6.0\ReadWrite.deps.json
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\FileIO\ReadWrite\bin\Debug\net6.0\ReadWrite.runtimeconfig.json
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\FileIO\ReadWrite\bin\Debug\net6.0\ReadWrite.dll
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\FileIO\ReadWrite\bin\Debug\net6.0\ReadWrite.pdb
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\FileIO\ReadWrite\obj\Debug\net6.0\ReadWrite.csproj.AssemblyReference.cache
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\FileIO\ReadWrite\obj\Debug\net6.0\ReadWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\FileIO\ReadWrite\obj\Debug\net6.0\ReadWrite.AssemblyInfoInputs.cache
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\FileIO\ReadWrite\obj\Debug\net6.0\ReadWrite.AssemblyInfo.cs
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\FileIO\ReadWrite\obj\Debug\net6.0\ReadWrite.csproj.CoreCompileInputs.cache
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\FileIO\ReadWrite\obj\Debug\net6.0\ReadWrite.dll
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\FileIO\ReadWrite\obj\Debug\net6.0\refint\ReadWrite.dll
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\FileIO\ReadWrite\obj\Debug\net6.0\ReadWrite.pdb
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\FileIO\ReadWrite\obj\Debug\net6.0\ReadWrite.genruntimeconfig.cache
+C:\Users\ryan_\OneDrive\Documents\Code\HelloWorld\FileIO\ReadWrite\obj\Debug\net6.0\ref\ReadWrite.dll

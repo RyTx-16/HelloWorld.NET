@@ -1,0 +1,3 @@
+Text in file.Text added to the file.Line 1
+Line 2
+Line 3
